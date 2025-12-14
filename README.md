@@ -42,7 +42,7 @@ This project aims to answer the following research questions:
 
 ---
 
-## 🔬 Methodology
+## Methodology
 
 ### 1. Data Processing
 - Data cleaning and date conversion

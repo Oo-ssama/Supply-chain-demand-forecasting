@@ -125,7 +125,7 @@ within the **Master in Supply Chain Management** at **Montpellier Business Schoo
 
 ## 👤 Author
 
-Student: *Oussama KASSIMI & Houssama Tachihante*
+Student: *Oussama KASSIMI & Houssam Tachihante*
 
 Program: Master in Supply Chain Management  
 Institution: Montpellier Business School
